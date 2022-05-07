@@ -1,0 +1,23 @@
+*{background-color: rgb(212, 230, 246);}
+
+.title{width: 150px;
+       text-align: center;
+       margin-left: 50%;
+    border-radius: 50px;}
+    
+.red{background-color: rgb(65, 82, 107);
+     color: rgb(78, 174, 247);
+     }
+
+.Image{width: 320px;
+       height: 240px;
+       margin-left: 45%;
+       margin-bottom: 20px;}
+
+.Photo{width: 320px;
+       height: 240px;
+       margin-left: 45%;
+       margin-bottom: 20px;}
+
+.video{margin-left: 45%;
+}
